@@ -8,8 +8,8 @@
 
 			$currency	= "512";
  			$language	= "ENG";
- 			$receiptURL	= "http://localhost/MerchantApp/bankHosted/HostedPaymentResult.php";
- 			$errorURL	= "http://localhost/MerchantApp/bankHosted/HostedPaymentResult.php";
+ 			$receiptURL	= "http://localhost/MerchantApp_PHP-main/bankHosted/HostedPaymentResult.php";
+ 			$errorURL	= "http://localhost/MerchantApp_PHP-main/bankHosted/HostedPaymentResult.php";
 			$resourcePath = "D:\\Softwares\\PHP\\htdocs\\MerchantApp_PHP-main\\cgnFiles\CGN\\";
 			$aliasName = "nandos";
 			$myObj = new iPayOabPipe();
